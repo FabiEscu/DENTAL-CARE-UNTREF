@@ -1,0 +1,64 @@
+[
+    {
+      "id": "1",
+      "nombre": "🦷 SILLON <br> ODONTOLÓGICO",
+      "imagen": "img/sillon.png",
+      "descripcion": "SILLON OLSEN INFINITY PREMIUM",
+      "descripcionLarga": "Posición de enjuague. Retorno a cero automático. Cabecera Multiarticulada.Iluminación por LED con intensidad progresiva de 6.000 a 25.000 Lux. ",
+      "precio": "2.758.620",
+      "puntuacion": "*****"
+    },
+  
+    {
+      "id": "2",
+      "nombre": "🦷 COMPRESOR ODONTOLÓGICO",
+      "imagen": "img/compresor.jpg",
+      "descripcion": "SILENCIOSO 1HP, Marca: SILENT AIR",
+      "descripcionLarga": "  Potencia del motor: 750W (1HP). Velocidad del motor: 1380 rpm. Desplazamiento de aire: 152 L/min .Tanque: 38 Lts. (7,9 Gal). Peso: 28 Kgrs.Gran flujo, ruido de aire bajo y limpio.Funcionamiento en seco.Rendimiento estable y de calidad confiable a través del tiempo. Verdadera conservación de energía y reducción de emisiones.Control automático completo.",
+      "precio": "328.325",
+      "puntuacion": "*****"
+    },
+  
+    {
+      "id": "3",
+      "nombre": "🦷 ESTERILIZADORA, Marca: EGEO ",
+      "imagen": "img/esterilizadora.png",
+      "descripcion": "DIGITAL 4 BANDEJAS Y 5 PROGRAMAS",
+      "descripcionLarga": "La Estufa 26 L EGEO es totalmente de acero inoxidable, electrónica, con cuatro programas preeestablecidos y un programa manual con controles digitales comandados por un microprocesador. Dispone de una capacidad de 26 litros, como su nombre lo indica. Sistema de esterilización sencillo y efectivo.Sus tres amplias bandejas perforadas de acero inoxidable permiten acomodar gran cantidad de instrumental, no oxida a los mismos ni afecta puntas ni filos.",
+      "precio": "382.900",
+      "puntuacion": "***"
+    }, 
+    
+    {
+      "id": "4",
+      "nombre": "🦷EQUIPO DE RAYOS X Marca:DSJ ",
+      "imagen": "img/rayos.webp",
+      "descripcion": "EQUIPO RAYOS X  RODANTE Modelo: EX",
+      "descripcionLarga": "Rayos  DSJ Rodante Modelo EX. Pedestal construido en hierro macizo. El interior de su cabezal está constituido por un tubo de 70KV 8mA alimentado por un transformador de alta tensión rodeado de aceite, cerrado al vacío y debidamente cubierto. Permite girarlo 360° sin dañar ningún cable. Disparador:digital de 0,05 a 3 seg.Indicador sonoro y de luz al momento de la emisión.",
+      "precio": "704.746",
+      "puntuacion": "****"
+    },
+  
+    {
+      "id": "5",
+      "nombre": "🦷 KIT DE 10 FORCEPS ADULTOS ",
+      "imagen": "img/forceps-adultos.png",
+      "descripcion": " KIT 10 FORCEPS + ESTUCHE PANORAMA  ",
+      "descripcionLarga": "Incluye:- Forcep incisivos y premolares - Forcep premolares - Forcep premolares - Forcep molares derecho - Forcep molares izquierdo - Forcep raíces - Forcep terceros molares - Forcep molares - Forcep incisivos y raíces - Forcep terceros molares.",
+      "precio": "92.200",
+      "puntuacion": "****"
+    },
+  
+    {
+      "id": "6",
+      "nombre": "🦷 FORCEPS <br> PARA NIÑOS",
+      "imagen": "img/forceps-niños.png",
+      "descripcion": " KIT  de 5 FORCEPS <br> Marca: BELKYS ",
+      "descripcionLarga": " Juego de 5 Forceps para niños de acero inoxidable: - para incisivos inferiores - para raíces superiores - para molares superiores - para molares inferiores - para raíces inferiores. Presentación: estuche con 5 forceps",
+      "precio": "44.390",
+      "puntuacion": "****"
+    }
+  
+  
+  ]
+  
